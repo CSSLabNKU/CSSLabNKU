@@ -8,7 +8,10 @@
 
 We have open-sourced several projects related to our published research, aiming to contribute to both academia and industry. Feel free to explore!
 
-1. TarGuess-I algorithm from our 2016 ACM CCS paper "Targeted Online Password Guessing: An Underestimated Threat". 📝[[PDF]](http://wangdingg.weebly.com/uploads/2/0/3/6/20366987/ccs16_final_v12.pdf)&nbsp;&nbsp;&nbsp;&nbsp;🎥[[Video]](https://www.youtube.com/watch?v=t9YJxFwdaeM)&nbsp;&nbsp;&nbsp;&nbsp;💻[[Code]](https://github.com/CSSLabNKU/TarGuess-I)
+
+(1) TarGuess-I algorithm from our 2016 ACM CCS paper "Targeted Online Password Guessing: An Underestimated Threat".
+
+📝[[PDF]](http://wangdingg.weebly.com/uploads/2/0/3/6/20366987/ccs16_final_v12.pdf)&nbsp;&nbsp;&nbsp;&nbsp;🎥[[Video]](https://www.youtube.com/watch?v=t9YJxFwdaeM)&nbsp;&nbsp;&nbsp;&nbsp;💻[[Code]](https://github.com/CSSLabNKU/TarGuess-I)
 
 
 
