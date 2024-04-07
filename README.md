@@ -8,7 +8,7 @@
 
 We have open-sourced several projects related to our published research, aiming to contribute to both academia and industry.
 
-Feel free to explore!👀
+Feel free to explore! 👀
 
 **1. TarGuess-I password guessing algorithm source code for our 2016 ACM CCS paper "*Targeted Online Password Guessing: An Underestimated Threat*".**
 
