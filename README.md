@@ -10,7 +10,6 @@ We have open-sourced several projects related to our published research, aiming 
 
 Feel free to explore! 👀
 
-<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=CSSLabNKU" /> </div>
 
 **1. TarGuess-I password guessing algorithm source code for our 2016 ACM CCS paper "*Targeted Online Password Guessing: An Underestimated Threat*".**
 
