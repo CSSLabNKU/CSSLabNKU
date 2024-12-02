@@ -32,6 +32,11 @@ Feel free to explore! 👀
 
 [[PDF]](http://wangdingg.weebly.com/uploads/2/0/3/6/20366987/usenix23-n3-fullversion.pdf)&nbsp;&nbsp;&nbsp;&nbsp;[[Video]](https://www.youtube.com/watch?v=4WqOmDBS3e4)&nbsp;&nbsp;&nbsp;&nbsp;[[Code]](https://github.com/CSSLabNKU/Random-Forest-Password-Guessing)
 
+**5. Source code for our 2025 IEEE S&P Paper "*Security Analysis of Master-Password-Protected Password Management Protocols*".**
+
+[[PDF]](https://wangdingg.weebly.com/uploads/2/0/3/6/20366987/ieeesp25-pm-full.pdf)&nbsp;&nbsp;&nbsp;&nbsp;[[Video]]()&nbsp;&nbsp;&nbsp;&nbsp;[[Code]](https://github.com/DanielNKU/pm-analysis)
+
+
 
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CSSLabNKU&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> 
 <img height="137px" src="https://github-readme-stats.vercel.app/api?username=CSSLabNKU&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
