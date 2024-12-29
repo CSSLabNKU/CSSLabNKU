@@ -28,11 +28,7 @@ Feel free to explore! 👀
 
 [[PDF]](http://wangdingg.weebly.com/uploads/2/0/3/6/20366987/dsn16v9.pdf)&nbsp;&nbsp;&nbsp;&nbsp;[Video is Not Available]&nbsp;&nbsp;&nbsp;&nbsp;[[Code]](https://github.com/CSSLabNKU/fuzzyPSM)
 
-**4. RFGuess password guessing algorithm source code for our 2023 USENIX Security Paper "*Password Guessing Using Random Forest*".**
-
-[[PDF]](http://wangdingg.weebly.com/uploads/2/0/3/6/20366987/usenix23-n3-fullversion.pdf)&nbsp;&nbsp;&nbsp;&nbsp;[[Video]](https://www.youtube.com/watch?v=4WqOmDBS3e4)&nbsp;&nbsp;&nbsp;&nbsp;[[Code]](https://wangdingg.weebly.com/publications.html)
-
-**5. Source code for our 2025 IEEE S&P Paper "*Security Analysis of Master-Password-Protected Password Management Protocols*".**
+**4. Source code for our 2025 IEEE S&P Paper "*Security Analysis of Master-Password-Protected Password Management Protocols*".**
 
 [[PDF]](https://wangdingg.weebly.com/uploads/2/0/3/6/20366987/ieeesp25-pm-full.pdf)&nbsp;&nbsp;&nbsp;&nbsp;[[Video]]()&nbsp;&nbsp;&nbsp;&nbsp;[[Code]](https://github.com/DanielNKU/pm-analysis)
 
@@ -55,6 +51,7 @@ Feel free to explore! 👀
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...📝🎥💻
+**4. RFGuess password guessing algorithm source code for our 2023 USENIX Security Paper "*Password Guessing Using Random Forest*".**  [[PDF]](http://wangdingg.weebly.com/uploads/2/0/3/6/20366987/usenix23-n3-fullversion.pdf)&nbsp;&nbsp;&nbsp;&nbsp;[[Video]](https://www.youtube.com/watch?v=4WqOmDBS3e4)&nbsp;&nbsp;&nbsp;&nbsp;[[Code]](https://wangdingg.weebly.com/publications.html)
 
 
 CSSLabNKU/CSSLabNKU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
