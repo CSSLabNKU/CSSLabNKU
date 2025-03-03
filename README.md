@@ -11,28 +11,28 @@ We have open-sourced several projects related to our published research, aiming 
 Feel free to explore! 👀
 
 
-**1. TarGuess-I password guessing algorithm source code for our 2016 ACM CCS paper "*Targeted Online Password Guessing: An Underestimated Threat*".**
+**1. TarGuess-I password guessing algorithm source code for our 2016 ACM CCS paper "*Targeted Online Password Guessing: An Underestimated Threat*".** <a href="https://github.com/CSSLabNKU/TarGuess-I/stargazers"><img src="https://img.shields.io/github/stars/CSSLabNKU/TarGuess-I" alt="Stars Badge"/></a>
 
 [[PDF]](http://wangdingg.weebly.com/uploads/2/0/3/6/20366987/ccs16_final_v12.pdf)&nbsp;&nbsp;&nbsp;&nbsp;[[Video]](https://www.youtube.com/watch?v=t9YJxFwdaeM)&nbsp;&nbsp;&nbsp;&nbsp;[[Code]](https://github.com/CSSLabNKU/TarGuess-I)
 
 <!--**2. Honeywords-related source code for our 2018 NDSS paper "*A Security Analysis of Honeywords*" and 2022 IEEE S&P paper "*How to Attack and Generate Honeywords*".**-->
 
-**2. Honeywords-related source code for our 2018 NDSS paper "*A Security Analysis of Honeywords*".**
+**2. Honeywords-related source code for our 2018 NDSS paper "*A Security Analysis of Honeywords*".** <a href="https://github.com/CSSLabNKU/Honeywords/stargazers"><img src="https://img.shields.io/github/stars/CSSLabNKU/Honeywords" alt="Stars Badge"/></a>
 
 <!--**NDSS'18:**-->
 [[PDF]](http://wangdingg.weebly.com/uploads/2/0/3/6/20366987/ndss18final_fullv9.pdf)&nbsp;&nbsp;&nbsp;&nbsp;[[Video]](https://www.youtube.com/watch?v=9UcqgHm3cEg)&nbsp;&nbsp;&nbsp;&nbsp;[[Code]](https://github.com/CSSLabNKU/Honeywords)
 
 <!--**IEEE S&P'22:** [[PDF]](http://wangdingg.weebly.com/uploads/2/0/3/6/20366987/sp22n1-wd6.pdf)&nbsp;&nbsp;&nbsp;&nbsp;[[Video]](https://www.youtube.com/watch?v=_BuvBg72A6A)&nbsp;&nbsp;&nbsp;&nbsp;[[Code]](https://github.com/CSSLabNKU/Honeywords)-->
 
-**3. PSM-related source code for our 2016 IEEE/IFIP DSN paper "*fuzzyPSM: A New Password Strength Meter Using Fuzzy Probabilistic Context-Free Grammars*".**
+**3. PSM-related source code for our 2016 IEEE/IFIP DSN paper "*fuzzyPSM: A New Password Strength Meter Using Fuzzy Probabilistic Context-Free Grammars*".** <a href="https://github.com/CSSLabNKU/fuzzyPSM/stargazers"><img src="https://img.shields.io/github/stars/CSSLabNKU/fuzzyPSM" alt="Stars Badge"/></a>
 
 [[PDF]](http://wangdingg.weebly.com/uploads/2/0/3/6/20366987/dsn16v9.pdf)&nbsp;&nbsp;&nbsp;&nbsp;[[Video]]()&nbsp;&nbsp;&nbsp;&nbsp;[[Code]](https://github.com/CSSLabNKU/fuzzyPSM)
 
-**4. Source code for our 2025 IEEE S&P Paper "*Security Analysis of Master-Password-Protected Password Management Protocols*".**
+**4. Source code for our 2025 IEEE S&P Paper "*Security Analysis of Master-Password-Protected Password Management Protocols*".** <a href="https://github.com/DanielNKU/pm-analysis/stargazers"><img src="https://img.shields.io/github/stars/DanielNKU/pm-analysis" alt="Stars Badge"/></a>
 
-[[PDF]](https://wangdingg.weebly.com/uploads/2/0/3/6/20366987/ieeesp25-pm-full.pdf)&nbsp;&nbsp;&nbsp;&nbsp;[[Video]]()&nbsp;&nbsp;&nbsp;&nbsp;[[Code]](https://github.com/DanielNKU/pm-analysis)
+[[PDF]](https://wangdingg.weebly.com/uploads/2/0/3/6/20366987/ieeesp25-pm-full.pdf)&nbsp;&nbsp;&nbsp;&nbsp;[[Video]]()&nbsp;&nbsp;&nbsp;&nbsp;[[Code]](https://github.com/DanielNKU/pm-analysis) 
 
-**5. Source code for our 2024 ACSAC Paper "*Leaky Autofill: An Empirical Study on the Privacy Threat of Password Managers' Autofill Functionality*".**
+**5. Source code for our 2024 ACSAC Paper "*Leaky Autofill: An Empirical Study on the Privacy Threat of Password Managers' Autofill Functionality*".** <a href="https://github.com/Leaky-Autofill/LeakyAutofill-Artifact/stargazers"><img src="https://img.shields.io/github/stars/Leaky-Autofill/LeakyAutofill-Artifact" alt="Stars Badge"/></a>
 
 [[PDF]](http://wangdingg.weebly.com/uploads/2/0/3/6/20366987/acsac24-pm.pdf)&nbsp;&nbsp;&nbsp;&nbsp;[[Video]]()&nbsp;&nbsp;&nbsp;&nbsp;[[Code]](https://github.com/Leaky-Autofill/LeakyAutofill-Artifact)
 
